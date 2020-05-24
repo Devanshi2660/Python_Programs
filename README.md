@@ -1,2 +1,2 @@
-# Python_project
-Python Assignment
+# Python_programs
+Python Assignments
